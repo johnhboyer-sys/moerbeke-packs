@@ -10,12 +10,14 @@ choose it with "Install from file…".
 | Pack | Dictionary | Licence |
 |---|---|---|
 | `grc-lexicon-pack.zip` | Liddell & Scott, with Morpheus word analyses | CC BY-SA 3.0 US |
-| `lat-lexicon-pack.zip` | Lewis & Short, with Morpheus word analyses | CC BY-SA 3.0 US |
+| `lat-lexicon-pack.zip` | Lewis & Short, with Morpheus word analyses and Whitaker's Words (from packs-2) | CC BY-SA 3.0 US; Whitaker's data under his own permission |
 
 The dictionaries come from the [Perseus Digital Library](https://www.perseus.tufts.edu/)
 under the [Creative Commons Attribution-ShareAlike 3.0 United States](https://creativecommons.org/licenses/by-sa/3.0/us/)
 licence, and the word analyses from Morpheus, the Perseus Project's parser, as
-distributed with [Diogenes](https://d.iogen.es/d) (Peter Heslin). Each zip
+distributed with [Diogenes](https://d.iogen.es/d) (Peter Heslin). Whitaker's Words is William Whitaker's
+WORDS dictionary, from [mk270/whitakers-words](https://github.com/mk270/whitakers-words); his
+permission: "Permission is hereby freely given for any and all use of program and data." Each zip
 carries its own `LICENCE` and `CREDITS`, saying what was changed. The packs are
 shared under the same licence.
 
